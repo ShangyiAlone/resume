@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7527f4f3-38a6-4b64-987a-cd50c427c49d" name="Changes" comment="图片不显示bug修改" />
+    <list default="true" id="7527f4f3-38a6-4b64-987a-cd50c427c49d" name="Changes" comment="项目初始化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +23,7 @@
   &quot;associatedIndex&quot;: -1
 }</component>
   <component name="ProjectId" id="2YwAEQBYbcS3xxC05qk1t8n1HcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,6 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701426156963</updated>
       <workItem from="1701426157927" duration="288000" />
+      <workItem from="1701426457973" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="图片不显示bug修改">
       <option name="closed" value="true" />
