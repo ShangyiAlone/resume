@@ -1,4 +1,3 @@
-[![star](https://gitee.com/itsay/resume/badge/star.svg?theme=white)](https://gitee.com/itsay/resume/stargazers)    [![fork](https://gitee.com/itsay/resume/badge/fork.svg?theme=white)](https://gitee.com/itsay/resume/members)
 
 # 个人简历模板
 
@@ -6,6 +5,9 @@
 
 对原有项目的一些bug进行修复，并且补充了配置文档
 
+http://shangyifly.fun:8080/
+
+## 线上地址
 http://shangyifly.fun:8080/
 
 ## Intro
