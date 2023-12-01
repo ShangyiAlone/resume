@@ -3,7 +3,10 @@
 
 项目来自于 https://gitee.com/itsay/resume.git
 
-对原有项目的一些bug进行修复，并且补充了配置文档
+对原有项目的一些bug进行修复，并且补充了docker的配置脚本
+
+在部署项目时在服务器下载docker环境后修改配置脚本中的地址就可以实现直接部署
+
 
 http://shangyifly.fun:8080/
 
